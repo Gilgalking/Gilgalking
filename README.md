@@ -15,3 +15,9 @@ I'm a multi-skilled professional with a background in graphics design, product d
 <a href="https://www.linkedin.com/in/nnawuihe-king-akuchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nnawuihe-king-akuchi" height="30" width="40" /></a>
 <a href="https://instagram.com/Gilgal_king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gilgal_king" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gilgalking&show_icons=true&locale=en&layout=compact" alt="Gilgalking" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gilgalking&show_icons=true&locale=en" alt="Gilgalking" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgalking&" alt="Gilgalking" /></p>
