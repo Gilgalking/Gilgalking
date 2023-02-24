@@ -7,4 +7,4 @@ I'm a multi-skilled professional with a background in graphics design, product d
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gilgalking" alt="Gilgalking" /></a> </p>
 
 <h3 align="left">Design Portfolio:</h3>
-alt="https://www.behance.net/nnawuiheking" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/nnawuiheking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/nnawuiheking" height="30" width="40" /></a>
