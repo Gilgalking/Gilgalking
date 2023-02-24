@@ -1,4 +1,6 @@
-### Hi there 👋
+### GILGALKING 👋
+
+Junior Product Designer(UX/UI) || Graphics Designer || Solar Technician || Bsc. Physics
 
 <!--
 **Gilgalking/Gilgalking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
