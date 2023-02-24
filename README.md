@@ -8,3 +8,10 @@ I'm a multi-skilled professional with a background in graphics design, product d
 
 <h3 align="left">Design Portfolio:</h3>
 <a href="https://www.behance.net/https://www.behance.net/nnawuiheking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/nnawuiheking" height="30" width="40" /></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/gilgalking?t=wvammjwu0mx0mg9whr24mg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gilgalking?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nnawuihe-king-akuchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nnawuihe-king-akuchi" height="30" width="40" /></a>
+<a href="https://instagram.com/Gilgal_king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gilgal_king" height="30" width="40" /></a>
+</p>
