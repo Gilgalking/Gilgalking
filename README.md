@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.behance.net/nnawuiheking/" target="_blank" >NNAWUIHE KING AKUCHI</a>!</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/nnawuihe-king-akuchi/" target="_blank" >NNAWUIHE KING AKUCHI</a>!</h1>
 
 <h3 align="center">Software Engeenering Student || Junior Product Designer(UX/UI) || Graphics Designer || Solar Technician || Bsc. Physics</h3>
 
