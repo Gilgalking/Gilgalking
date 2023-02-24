@@ -1,4 +1,4 @@
-### Hi there, I'm [Nnawuihe King Akuchi]👋
+<h1 align="center">Hi 👋, I'm UDO INNOCENT CHARLES</h1>
 
 **'Junior Product Designer(UX/UI) || Graphics Designer || Solar Technician || Bsc. Physics'**
 
